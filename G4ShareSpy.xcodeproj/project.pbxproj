@@ -98,6 +98,7 @@
 		4DCEF2751D41A2E800724BCD /* MessageHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessageHeader.swift; sourceTree = "<group>"; };
 		4DCEF2761D41A2E800724BCD /* SystemTimeMessage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SystemTimeMessage.swift; sourceTree = "<group>"; };
 		4DCEF2771D41A2E800724BCD /* Receiver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Receiver.swift; sourceTree = "<group>"; };
+		7D4C912E2331E461003F5248 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -303,6 +304,7 @@
 				ru,
 				pl,
 				nb,
+				sv,
 			);
 			mainGroup = 4DCEF2461D41A2A200724BCD;
 			productRefGroup = 4DCEF2511D41A2A200724BCD /* Products */;
@@ -424,6 +426,7 @@
 				43AB514321331BFF00B3D58D /* ru */,
 				43AB514421331C0400B3D58D /* pl */,
 				43AB514521331C0700B3D58D /* nb */,
+				7D4C912E2331E461003F5248 /* sv */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

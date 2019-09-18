@@ -1,0 +1,37 @@
+/* Confirmation message for deleting a CGM */
+"Are you sure you want to delete this CGM?" = "Säkert att du vill radera denna CGM?";
+
+/* The title of the cancel action in an action sheet */
+"Cancel" = "Avbbryt";
+
+/* Title describing glucose date */
+"Date" = "Tid";
+
+/* Button title to delete CGM
+   Title text for the button to remove a CGM from Loop */
+"Delete CGM" = "Radera CGM";
+
+/* CGM display title */
+"Dexcom G4" = "Dexcom G4";
+
+/* Title describing glucose value */
+"Glucose" = "Glukos";
+
+/* Describes a glucose value adjusted to reflect a recent calibration */
+"Glucose (Adjusted)" = "Glukos (Justerad)";
+
+/* Section title for latest glucose reading */
+"Latest Reading" = "Senaste avläsning";
+
+/* Sensor state description for the non-valid state */
+"Needs Attention" = "Kräver uppmärksamhet";
+
+/* Sensor state description for the valid state */
+"OK" = "OK";
+
+/* Title describing CGM calibration state */
+"Status" = "Status";
+
+/* Title describing glucose trend */
+"Trend" = "Trend";
+
