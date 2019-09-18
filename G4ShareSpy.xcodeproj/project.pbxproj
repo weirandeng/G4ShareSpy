@@ -55,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		02DD475A2332D34A006FB374 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		43AB513821331BA700B3D58D /* LocalizedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizedString.swift; sourceTree = "<group>"; };
 		43AB513B21331BBF00B3D58D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		43AB513D21331BD800B3D58D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
@@ -305,6 +306,7 @@
 				pl,
 				nb,
 				sv,
+				vi,
 			);
 			mainGroup = 4DCEF2461D41A2A200724BCD;
 			productRefGroup = 4DCEF2511D41A2A200724BCD /* Products */;
@@ -427,6 +429,7 @@
 				43AB514421331C0400B3D58D /* pl */,
 				43AB514521331C0700B3D58D /* nb */,
 				7D4C912E2331E461003F5248 /* sv */,
+				02DD475A2332D34A006FB374 /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
