@@ -1,2 +1,4 @@
-github "kdisimone/LoopKit" "jojo"
-github "kdisimone/dexcom-share-client-swift" "jojo"
+#github "kdisimone/LoopKit" "jojo"
+github "weirandeng/LoopKit" "jojo"
+#github "kdisimone/dexcom-share-client-swift" "jojo"
+github "weirandeng/dexcom-share-client-swift" "jojo"
